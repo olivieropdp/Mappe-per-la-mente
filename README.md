@@ -1,2 +1,3 @@
 # Mappe-per-la-mente
-Materiali per la mostra
+Gestire la complessità
+Materiali per la mostra a cura di Oliviero Ponte di Pino al Laboratorio Formentini per l'Editoria
